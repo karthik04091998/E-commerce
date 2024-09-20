@@ -1,8 +1,25 @@
-# React + Vite
+Frontend Development:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Used React for building a dynamic and interactive UI.
+Created separate components for the login and registration forms.
+Used React state and Formik to manage form inputs and validation messages.
+Utilizde React Router for handling client-side routing.
+Implemented Redux or the Context API for state management across the application.
 
-Currently, two official plugins are available:
+Backend Development:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Seted up Node.js and Express.js for creating RESTful APIs to handle requests and responses.
+Used MongoDB for storing and managing tasks, user data, and authentication details.
+Implemented JWT, and Bcrypt for secure access.
+Integrated middleware for user permissions and role-based access control.
+
+Functionality Development:
+
+Users can be able to search for products.
+Users can be able to add items to their cart
+Users can be able to Secure payment processing for purchases.
+Admins can create seller accounts.
+Admins can manage inventory and product details.
+Admins can track sales and inventory.
+Users can be able to easily navigate for users and Admin.
+
