@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Nike Air Max 270",
+      "sku": "SP001",
+      "images": [
+        "https://images-cdn.ubuy.co.in/6531111e68a2c4119157421f-nike-air-max-270-men-s-running-shoes.jpg",
+        "https://m.media-amazon.com/images/I/61TpwR4jLIL._SY695_.jpg"
+      ],
+      "price": 150.00,
+      "description": "The Nike Air Max 270 delivers visible cushioning under every step.",
+      "category": "Sports",
+      "sellerInfo": "Seller: Nike Store, Contact: support@nike.com"
+    },
+    {
+      "name": "Sony WH-1000XM4",
+      "sku": "SP002",
+      "images": [
+        "https://cdn.shakedeal.com/images/thumbnails/330/330/detailed/805/SDSNY0006200_9zna-xj.png",
+        "https://store.sony.co.nz/dw/image/v2/ABBC_PRD/on/demandware.static/-/Sites-sony-master-catalog/default/dwa2e1d2f5/images/WH1000XM4S/WH1000XM4S_4.png"
+      ],
+      "price": 349.99,
+      "description": "Industry-leading noise canceling with Dual Noise Sensor technology.",
+      "category": "Electronics",
+      "sellerInfo": "Seller: Sony Store, Contact: support@sony.com"
+    },
+    {
+      "name": "Adidas Ultraboost 21",
+      "sku": "SP003",
+      "images": [
+        "https://www.tradeinn.com/f/13789/137892056/adidas-ultraboost-21-running-shoes.webp",
+        "https://www.tradeinn.com/f/13789/137892056_3/adidas-ultraboost-21-running-shoes.webp"
+      ],
+      "price": 180.00,
+      "description": "The Ultraboost 21 shoes combine comfort and high-performance technology.",
+      "category": "Sports",
+      "sellerInfo": "Seller: Adidas Store, Contact: support@adidas.com"
+    },
+    {
+      "name": "Apple MacBook Air",
+      "sku": "SP004",
+      "images": [
+        "https://www.apple.com/v/macbook-air/s/images/overview/hero/hero_static__c9sislzzicq6_large.jpg",
+        "https://m.media-amazon.com/images/I/51hJIsWMagL._AC_UF1000,1000_QL80_.jpg"
+      ],
+      "price": 999.00,
+      "description": "Apple MacBook Air with Apple M1 chip for outstanding performance.",
+      "category": "Electronics",
+      "sellerInfo": "Seller: Apple Store, Contact: support@apple.com"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "sku": "SP005",
+      "images": [
+        "https://d2xamzlzrdbdbn.cloudfront.net/products/35ef1ea5-c91d-45c5-9e2f-3e0afe81f8fc22211058_416x416.jpg",
+        "https://shoptopnotch.ca/cdn/shop/files/samsung_galaxy_s21_5g_black_noir_1800x1800.png"
+      ],
+      "price": 799.99,
+      "description": "The Samsung Galaxy S21 5G is designed for the bold with a sleek new design.",
+      "category": "Electronics",
+      "sellerInfo": "Seller: Samsung Store, Contact: support@samsung.com"
+    },
+    {
+      "name": "Levi's 501 Original Jeans",
+      "sku": "SP006",
+      "images": [
+        "https://assets.ajio.com/medias/sys_master/root/hf2/h8a/9262962409502/-1117Wx1400H-460027749-blue-MODEL6.jpg",
+        "https://deeceestyle.ch/cdn/shop/products/01-06880_Levis_Vintage_rinsed_0515_5000x.jpg"
+      ],
+      "price": 69.50,
+      "description": "The original blue jeans with a straight fit and signature button fly.",
+      "category": "Fashion",
+      "sellerInfo": "Seller: Levi's Store, Contact: support@levis.com"
+    },
+    {
+      "name": "Canon EOS R5",
+      "sku": "SP007",
+      "images": [
+        "https://assets.videomaker.com/2020/09/Canon-EOS-R5-primary.jpg",
+        "https://www.digitaltrends.com/wp-content/uploads/2020/07/canon-eos-r5-feature.jpg"
+      ],
+      "price": 3899.00,
+      "description": "The Canon EOS R5 is a full-frame mirrorless camera offering high resolution and advanced autofocus.",
+      "category": "Electronics",
+      "sellerInfo": "Seller: Canon Store, Contact: support@canon.com"
+    },
+    {
+      "name": "Puma Running Shoes",
+      "sku": "SP008",
+      "images": [
+        "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/h/6/p/-original-imagtbteu3rndhyt.jpeg",
+        "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/27185120/2024/3/22/115565f8-a78c-4cc6-9b46-e53f5ff0db001711100228907-Puma-Tread-Run-1591711100228588-1.jpg"
+      ],
+      "price": 120.00,
+      "description": "Puma running shoes provide comfort and support for all your running needs.",
+      "category": "Sports",
+      "sellerInfo": "Seller: Puma Store, Contact: support@puma.com"
+    }
+  ]
+  

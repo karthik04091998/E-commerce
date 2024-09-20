@@ -1,0 +1,40 @@
+.zoom-in-animation {
+    animation-name: zoom-in;
+    animation-duration: 250ms;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+  }
+  
+  .from-right-animation {
+    position: relative;
+    animation-name: from-right;
+    animation-duration: 500ms;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+    visibility: hidden;
+  }
+  
+  @keyframes zoom-in {
+    from {
+      transform: scale(0);
+      visibility: visible;
+    }
+  
+    to {
+      transform: scale(1);
+      visibility: visible;
+    }
+  }
+  
+  @keyframes from-right {
+    from {
+      left: 100%;
+      visibility: visible;
+    }
+  
+    to {
+      left: 0px;
+      visibility: visible;
+    }
+  }
